@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9338ddd1-bf52-48b4-85f7-d84596d799d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-server/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/blink.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/blink.py" afterDir="false" />
     </list>
@@ -32,9 +32,76 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/FEI STU/8. Semester/POIT/poit_flask" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.app (2)">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="raspberry-server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/flask-examples/flask2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/flask-examples/flask2/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="raspberry-server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/flask-examples/flask3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/flask-examples/flask3/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="raspberry-server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/flask-examples/flask1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/flask-examples/flask1/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="blink" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="raspberry-server" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,6 +126,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app (2)" />
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.app" />
         <item itemvalue="Python.blink" />
       </list>
     </recent_temporary>
@@ -73,7 +143,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584620901017</updated>
-      <workItem from="1584620902524" duration="1583000" />
+      <workItem from="1584620902524" duration="2728000" />
+      <workItem from="1585212334295" duration="11587000" />
     </task>
     <servers />
   </component>
@@ -81,28 +152,43 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="914" height="325" key="GridCell.Tab.0.bottom" timestamp="1584622641903">
+    <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585212390082">
+      <screen x="1920" y="198" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1020/1920.198.1920.1080@1920.198.1920.1080" timestamp="1585212390082" />
+    <state width="937" height="288" key="GridCell.Tab.0.bottom" timestamp="1585226595142">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
-    <state width="914" height="325" key="GridCell.Tab.0.bottom/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584622641903" />
-    <state width="914" height="325" key="GridCell.Tab.0.center" timestamp="1584622641903">
+    <state width="937" height="288" key="GridCell.Tab.0.bottom/0.27.1920.1020/1920.198.1920.1080@0.27.1920.1020" timestamp="1585226595142" />
+    <state width="1874" height="225" key="GridCell.Tab.0.bottom/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584623867519" />
+    <state width="1874" height="225" key="GridCell.Tab.0.bottom/0.27.1920.1020/1920.279.1920.1080@1920.279.1920.1080" timestamp="1584623616770" />
+    <state width="937" height="288" key="GridCell.Tab.0.center" timestamp="1585226595141">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
-    <state width="914" height="325" key="GridCell.Tab.0.center/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584622641903" />
-    <state width="914" height="325" key="GridCell.Tab.0.left" timestamp="1584622641903">
+    <state width="937" height="288" key="GridCell.Tab.0.center/0.27.1920.1020/1920.198.1920.1080@0.27.1920.1020" timestamp="1585226595141" />
+    <state width="1874" height="225" key="GridCell.Tab.0.center/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584623867519" />
+    <state width="1874" height="225" key="GridCell.Tab.0.center/0.27.1920.1020/1920.279.1920.1080@1920.279.1920.1080" timestamp="1584623616770" />
+    <state width="937" height="288" key="GridCell.Tab.0.left" timestamp="1585226595141">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
-    <state width="914" height="325" key="GridCell.Tab.0.left/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584622641903" />
-    <state width="914" height="325" key="GridCell.Tab.0.right" timestamp="1584622641903">
+    <state width="937" height="288" key="GridCell.Tab.0.left/0.27.1920.1020/1920.198.1920.1080@0.27.1920.1020" timestamp="1585226595141" />
+    <state width="1874" height="225" key="GridCell.Tab.0.left/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584623867519" />
+    <state width="1874" height="225" key="GridCell.Tab.0.left/0.27.1920.1020/1920.279.1920.1080@1920.279.1920.1080" timestamp="1584623616770" />
+    <state width="937" height="288" key="GridCell.Tab.0.right" timestamp="1585226595141">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
-    <state width="914" height="325" key="GridCell.Tab.0.right/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584622641903" />
+    <state width="937" height="288" key="GridCell.Tab.0.right/0.27.1920.1020/1920.198.1920.1080@0.27.1920.1020" timestamp="1585226595141" />
+    <state width="1874" height="225" key="GridCell.Tab.0.right/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584623867519" />
+    <state width="1874" height="225" key="GridCell.Tab.0.right/0.27.1920.1020/1920.279.1920.1080@1920.279.1920.1080" timestamp="1584623616770" />
     <state x="0" y="172" width="1022" height="737" key="SettingsEditor" timestamp="1584621151174">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
     <state x="0" y="172" width="1022" height="737" key="SettingsEditor/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584621151174" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/raspberry_server$blink.coverage" NAME="blink Coverage Results" MODIFIED="1584622641889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/raspberry_server$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1585222779824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/flask-examples/flask2" />
+    <SUITE FILE_PATH="coverage/raspberry_server$blink.coverage" NAME="blink Coverage Results" MODIFIED="1585217186222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
+    <SUITE FILE_PATH="coverage/raspberry_server$app.coverage" NAME="app Coverage Results" MODIFIED="1585217202807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/flask-examples/flask1" />
+    <SUITE FILE_PATH="coverage/raspberry_server$app__2_.coverage" NAME="app (2) Coverage Results" MODIFIED="1585226595133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/flask-examples/flask3" />
   </component>
 </project>

@@ -4,7 +4,6 @@ import time
 print("hello from pycharm")
 LedPin = 11    # pin11
 
-
 def setup():
   GPIO.setmode(GPIO.BOARD)       # Numbers GPIOs by physical location
   GPIO.setup(LedPin, GPIO.OUT)   # Set LedPin's mode is output

@@ -4,6 +4,13 @@
     <list>
       <list>
         <remote-mappings server-id="python@c4ff1dd3-f411-461c-abde-a20c2fb3bf66" />
+        <remote-mappings server-id="python@ssh://pi@192.168.100.15:22/usr/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/pi/Projects/raspberry-server" />
+            </list>
+          </settings>
+        </remote-mappings>
       </list>
     </list>
   </component>

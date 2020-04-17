@@ -2,7 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9338ddd1-bf52-48b4-85f7-d84596d799d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/examples/webserver/flask0/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/webserver/flask0/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/remote-mappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask1/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask1/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask1/templates/hello2.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask1/templates/hello2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask1/templates/hello3.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask1/templates/hello3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask1/templates/hello4.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask1/templates/hello4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask2/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask2/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask2/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask2/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask3/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask3/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask3/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask3/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask4/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask4/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask4/static/libs/jquery-1.11.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask4/static/libs/jquery-1.11.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask4/static/libs/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask4/static/libs/jquery-3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask4/static/libs/plotly-latest.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask4/static/libs/plotly-latest.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask4/templates/graphlive.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask4/templates/graphlive.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask4/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask4/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask5/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask5/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask5/static/libs/gauge.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask5/static/libs/gauge.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask5/templates/gauge.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask5/templates/gauge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask5/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask5/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask6/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask6/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask6/static/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask6/static/jquery-3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask6/static/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask6/static/jquery-ui.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask6/static/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask6/static/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/flask-examples/flask6/templates/tabs.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/webserver/flask6/templates/tabs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/gauge/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/gauge/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,19 +57,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples/iot-hub/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples/flask-examples" />
       <recent name="$PROJECT_DIR$/examples/iot-hub/static" />
       <recent name="$PROJECT_DIR$/examples/iot-hub" />
       <recent name="$PROJECT_DIR$/examples/gauge/templates" />
       <recent name="$PROJECT_DIR$/examples/gauge" />
-      <recent name="$PROJECT_DIR$/examples/graph" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app (2)">
+  <component name="RunManager" selected="Python.app (4)">
     <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="raspberry-server" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,6 +115,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="app (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="raspberry-server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/database/flask9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/database/flask9/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="raspberry-server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/database/flask7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/database/flask7/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="raspberry-server" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,34 +181,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="blink" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="raspberry-server" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/blink.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.app (4)" />
+        <item itemvalue="Python.app (3)" />
         <item itemvalue="Python.app (2)" />
         <item itemvalue="Python.app (1)" />
         <item itemvalue="Python.app" />
-        <item itemvalue="Python.blink" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +203,13 @@
       <updated>1584620901017</updated>
       <workItem from="1584620902524" duration="2728000" />
       <workItem from="1585212334295" duration="12370000" />
-      <workItem from="1585811064868" duration="23410000" />
+      <workItem from="1585811064868" duration="24010000" />
+      <workItem from="1586423090912" duration="2562000" />
+      <workItem from="1586804309043" duration="1518000" />
+      <workItem from="1586968866970" duration="1356000" />
+      <workItem from="1587070573394" duration="2581000" />
+      <workItem from="1587109387447" duration="3791000" />
+      <workItem from="1587117332808" duration="20102000" />
     </task>
     <servers />
   </component>
@@ -160,47 +217,72 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="555" y="198" width="800" height="684" key="#Notifications" timestamp="1587118138001">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="555" y="198" width="800" height="684" key="#Notifications/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1587118138001" />
     <state x="555" y="198" width="800" height="684" key="#Web_Browsers" timestamp="1585811785230">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
     <state x="555" y="198" width="800" height="684" key="#Web_Browsers/0.27.1920.1020/1920.260.1920.1080@0.27.1920.1020" timestamp="1585811785230" />
-    <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1585212390082">
-      <screen x="1920" y="198" width="1920" height="1080" />
-    </state>
-    <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1020/1920.198.1920.1080@1920.198.1920.1080" timestamp="1585212390082" />
-    <state width="937" height="159" key="GridCell.Tab.0.bottom" timestamp="1585241609077">
+    <state x="100" y="127" width="1720" height="820" key="DiffContextDialog" timestamp="1587124743268">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
+    <state x="100" y="127" width="1720" height="820" key="DiffContextDialog/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1587124743268" />
+    <state x="743" y="121" width="424" height="491" key="FileChooserDialogImpl" timestamp="1587124742495">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="743" y="121" width="424" height="521" key="FileChooserDialogImpl/0.27.1920.1020/1920.0.1368.768@0.27.1920.1020" timestamp="1586984622775" />
+    <state x="743" y="121" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1587124742495" />
+    <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1020/1920.198.1920.1080@1920.198.1920.1080" timestamp="1585212390082" />
+    <state width="1874" height="102" key="GridCell.Tab.0.bottom" timestamp="1587165642996">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state width="1874" height="102" key="GridCell.Tab.0.bottom/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1587165642996" />
     <state width="937" height="159" key="GridCell.Tab.0.bottom/0.27.1920.1020/1920.198.1920.1080@0.27.1920.1020" timestamp="1585241609077" />
     <state width="1874" height="225" key="GridCell.Tab.0.bottom/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584623867519" />
     <state width="1874" height="225" key="GridCell.Tab.0.bottom/0.27.1920.1020/1920.279.1920.1080@1920.279.1920.1080" timestamp="1584623616770" />
-    <state width="937" height="159" key="GridCell.Tab.0.center" timestamp="1585241609077">
+    <state width="1874" height="102" key="GridCell.Tab.0.center" timestamp="1587165642995">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
+    <state width="1874" height="102" key="GridCell.Tab.0.center/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1587165642995" />
     <state width="937" height="159" key="GridCell.Tab.0.center/0.27.1920.1020/1920.198.1920.1080@0.27.1920.1020" timestamp="1585241609077" />
     <state width="1874" height="225" key="GridCell.Tab.0.center/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584623867519" />
     <state width="1874" height="225" key="GridCell.Tab.0.center/0.27.1920.1020/1920.279.1920.1080@1920.279.1920.1080" timestamp="1584623616770" />
-    <state width="937" height="159" key="GridCell.Tab.0.left" timestamp="1585241609077">
+    <state width="1874" height="102" key="GridCell.Tab.0.left" timestamp="1587165642995">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
+    <state width="1874" height="102" key="GridCell.Tab.0.left/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1587165642995" />
     <state width="937" height="159" key="GridCell.Tab.0.left/0.27.1920.1020/1920.198.1920.1080@0.27.1920.1020" timestamp="1585241609077" />
     <state width="1874" height="225" key="GridCell.Tab.0.left/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584623867519" />
     <state width="1874" height="225" key="GridCell.Tab.0.left/0.27.1920.1020/1920.279.1920.1080@1920.279.1920.1080" timestamp="1584623616770" />
-    <state width="937" height="159" key="GridCell.Tab.0.right" timestamp="1585241609077">
+    <state width="1874" height="102" key="GridCell.Tab.0.right" timestamp="1587165642995">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
+    <state width="1874" height="102" key="GridCell.Tab.0.right/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1587165642995" />
     <state width="937" height="159" key="GridCell.Tab.0.right/0.27.1920.1020/1920.198.1920.1080@0.27.1920.1020" timestamp="1585241609077" />
     <state width="1874" height="225" key="GridCell.Tab.0.right/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584623867519" />
     <state width="1874" height="225" key="GridCell.Tab.0.right/0.27.1920.1020/1920.279.1920.1080@1920.279.1920.1080" timestamp="1584623616770" />
-    <state x="0" y="172" width="1022" height="737" key="SettingsEditor" timestamp="1584621151174">
+    <state x="73" y="199" width="1391" height="749" key="SettingsEditor" timestamp="1587119667361">
       <screen x="0" y="27" width="1920" height="1020" />
     </state>
+    <state x="73" y="199" width="1391" height="749" key="SettingsEditor/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1587119667361" />
     <state x="0" y="172" width="1022" height="737" key="SettingsEditor/0.27.1920.1020/1920.279.1920.1080@0.27.1920.1020" timestamp="1584621151174" />
+    <state x="328" y="299" width="501" height="543" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1587118014125">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="328" y="299" width="501" height="543" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1587118014125" />
+    <state x="479" y="253" width="466" height="642" key="ftp.server.browser" timestamp="1587118012899">
+      <screen x="0" y="27" width="1920" height="1020" />
+    </state>
+    <state x="479" y="253" width="466" height="642" key="ftp.server.browser/0.27.1920.1020/1920.0.1920.1080@0.27.1920.1020" timestamp="1587118012899" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/raspberry_server$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1585222779824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/flask-examples/flask2" />
+    <SUITE FILE_PATH="coverage/raspberry_server$app__4_.coverage" NAME="app (4) Coverage Results" MODIFIED="1587125050528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/database/flask7" />
     <SUITE FILE_PATH="coverage/raspberry_server$blink.coverage" NAME="blink Coverage Results" MODIFIED="1585217186222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples" />
     <SUITE FILE_PATH="coverage/raspberry_server$app.coverage" NAME="app Coverage Results" MODIFIED="1585217202807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/flask-examples/flask1" />
     <SUITE FILE_PATH="coverage/raspberry_server$app__2_.coverage" NAME="app (2) Coverage Results" MODIFIED="1585226595133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/flask-examples/flask3" />
+    <SUITE FILE_PATH="coverage/raspberry_server$app__3_.coverage" NAME="app (3) Coverage Results" MODIFIED="1587117162618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/examples/database/flask9" />
   </component>
 </project>

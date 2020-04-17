@@ -8,8 +8,8 @@ Remote internet of things centralized server
 ### Utilities
 - [x] Wifi router and hotspot
 - [x] Communication with embedded IoT devices
-- [ ] Web server
-
+- [x] Web server
+- [x] Databases
 
 ## Setup develepment tools
 
